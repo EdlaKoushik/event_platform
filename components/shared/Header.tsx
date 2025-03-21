@@ -26,8 +26,6 @@ const Header = () => {
    <SignedOut>
     <Button asChild className="rounded-full" size="lg">
         <Link href="/sign-in">Login 
-
-        //am stoped at here 34:26
         </Link>
     </Button>
    </SignedOut>
